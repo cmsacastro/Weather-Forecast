@@ -1,0 +1,41 @@
+/* TODO: Put your CSS code in here */
+.header {
+  display: flex;
+}
+h1 {
+  margin-top: 60px;
+  font-family: Roboto;
+  font-weight: lighter;
+}
+
+body {
+  text-align: center;
+}
+
+h3 {
+  font-family: Roboto;
+  font-weight: lighter;
+  font-size: 32px;
+}
+
+h2 {
+  font-family: Roboto;
+  font-size: 38px;
+}
+
+p {
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+#weather-card {
+  height: 300px;
+  width: 600px;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 40px;
+};
+

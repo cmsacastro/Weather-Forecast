@@ -1,0 +1,10 @@
+{
+  "name": "03-Weather",
+  "version": "1.0.0",
+  "main": "lib/app.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "select2": "^4.1.0-rc.0"
+  }
+}
